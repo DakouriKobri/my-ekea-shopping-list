@@ -71,5 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Project Design and Component Tree
 
-![Product Design](/asset/productDesign.png)
-![Component Tree](/asset/componentTree.png)
+![Product Design](https://github.com/DakouriKobri/my-ekea-shopping-list/blob/b7089bd3c49948dd0ccfa1b4f6cad8347f9583e6/src/assets/productDesign.png)
+![Component Tree](https://github.com/DakouriKobri/my-ekea-shopping-list/blob/b7089bd3c49948dd0ccfa1b4f6cad8347f9583e6/src/assets/componentTree.png)
