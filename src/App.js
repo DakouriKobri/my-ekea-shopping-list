@@ -4,7 +4,9 @@ import Footer from "./components/Footer";
 import WelcomePage from "./pages/WelcomePage";
 import ListPage from "./pages/ListPage";
 import "./css/styles.css";
-// import FormPage from "./pages/FormPage";
+// import FormPage from "./pages/FormPage"; // never import unused code
+
+// Rename this file App.jsx with an X to get the nice icon.
 
 export default function App() {
   return (
